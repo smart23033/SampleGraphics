@@ -16,7 +16,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".PaintActivity" />
-        <activity android:name=".PaintPathActivity"></activity>
+        <activity android:name=".PaintPathActivity" />
+        <activity android:name=".SurfaceActivity" />
+        <activity android:name=".ScrollActivity" />
+        <activity android:name=".DragAndDropActivity"></activity>
     </application>
 
 </manifest>
